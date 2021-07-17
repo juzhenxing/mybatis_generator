@@ -30,8 +30,7 @@
         <sqlMapGenerator targetPackage="mapper.mapping" targetProject="D:\gitlab\zhenxingju-mybatis_generator-master\mybatis_generator\com\example\">
             <property name="enableSubPackages" value="false"/>
         </sqlMapGenerator>
-        <javaClientGenerator type="XMLMAPPER" targetPackage="mapper"
-                             targetProject="com\example">
+        <javaClientGenerator type="XMLMAPPER" targetPackage="mapper" targetProject="D:\gitlab\zhenxingju-mybatis_generator-master\mybatis_generator\com\example\">
             <property name="enableSubPackages" value="false"/>
         </javaClientGenerator>
         <!-- 指定数据库表
